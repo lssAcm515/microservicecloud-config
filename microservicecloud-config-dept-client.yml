@@ -48,7 +48,7 @@ logging:
                     dao: debug
 ---
 server:
-    port: 8001 
+    port: 8001  
 spring:
     profiles: test
     application:
